@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe",
+    "python.analysis.downloadChannel": "beta",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pep8Enabled": false,
+    "python.linting.enabled": true
+}
